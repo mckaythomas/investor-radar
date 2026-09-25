@@ -4,7 +4,21 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 14:09:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 14:16:00 +0000</lastBuildDate>
+    <item>
+      <title>[Matthew Holt / THCB] HealthEx - The Demo with Claude &amp; the CEO Speaks!</title>
+      <link>https://thehealthcareblog.com/blog/2026/09/24/healthex-the-demo-with-claude-the-ceo-speaks/</link>
+      <guid isPermaLink="true">https://thehealthcareblog.com/blog/2026/09/24/healthex-the-demo-with-claude-the-ceo-speaks/</guid>
+      <pubDate>Fri, 25 Sep 2026 14:15:00 +0000</pubDate>
+      <description>Holt demos HealthEx with Ruheed Mohamed, piping his own health records into Claude. The plumbing matters: records flowing into a general-purpose AI with no new app behavior required of the patient is the passive-to-active-care thesis showing up in the wild. Worth McKay's read for how the record-access layer is productizing.</description>
+    </item>
+    <item>
+      <title>[Chrissy Farr / Second Opinion] The big interview with Ro Khanna on how to regulate AI</title>
+      <link>https://www.secondopinion.media/the-big-interview-with-ro-khanna-on-how-to-regulate-ai/</link>
+      <guid isPermaLink="true">https://www.secondopinion.media/the-big-interview-with-ro-khanna-on-how-to-regulate-ai/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate>
+      <description>Rep. Ro Khanna wants a new agency to vet frontier AI models. Farr presses on what that means for healthcare specifically - relevant context as Felt's care-stack leans on model access and any new approval gate would touch every health AI vendor.</description>
+    </item>
     <item>
       <title>[Market Signal] Angle Health raises $600M at a $2.7B valuation</title>
       <link>https://www.businesswire.com/news/home/20260918521947/en/Angle-Health-Raises-%24600-Million-at-a-%242.7-Billion-Valuation-to-Continue-Expanding-Affordable-Healthcare-Access-for-Small-Businesses</link>
