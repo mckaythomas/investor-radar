@@ -4,7 +4,14 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 14:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:05:00 +0000</lastBuildDate>
+    <item>
+      <title>[Chrissy Farr / Second Opinion] Four Questions with Munjal Shah</title>
+      <link>https://www.secondopinion.media/four-questions-with-munjal-shah-hippocratic-ai/</link>
+      <guid isPermaLink="true">https://www.secondopinion.media/four-questions-with-munjal-shah-hippocratic-ai/</guid>
+      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
+      <description>Hippocratic AI's co-founder on scope safety, who carries liability when a clinical AI gets it wrong, and why he thinks AI grows the healthcare workforce instead of shrinking it. The liability question is the one every care-stack company gets asked in diligence; Munjal's framing is the current reference answer.</description>
+    </item>
     <item>
       <title>[Matthew Holt / THCB] HealthEx - The Demo with Claude &amp; the CEO Speaks!</title>
       <link>https://thehealthcareblog.com/blog/2026/09/24/healthex-the-demo-with-claude-the-ceo-speaks/</link>
