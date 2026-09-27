@@ -4,8 +4,16 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 14:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:05:00 +0000</lastBuildDate>
     <item>
+      <title>[Healthcare Huddle] How AI Audio Briefings Could Improve ICU Sign-Out Workflows</title>
+      <link>https://www.healthcarehuddle.com/p/how-ai-audio-briefings-could-improve-icu-sign-out-workflows</link>
+      <guid isPermaLink="true">https://www.healthcarehuddle.com/p/how-ai-audio-briefings-could-improve-icu-sign-out-workflows</guid>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Jared Dashevsky's Inefficiency Insights #127: ICU sign-out makes clinicians rebuild the same patient story three times - chart review before the shift, the sign-out itself, then rounds - while the underlying data stays scattered across the EHR. His proposal: AI-generated audio briefings clinicians listen to before arriving, so the synthesis happens once. He flags the real tensions: accuracy, atrophied clinical judgment, and what must still pass directly between clinicians. This is the inpatient version of the passive-to-active thesis - care-grade synthesis with zero effort from the user - pointed at handoffs instead of patients.</description>
+    </item>
+
+<item>
       <title>[Chrissy Farr / Second Opinion] Four Questions with Munjal Shah</title>
       <link>https://www.secondopinion.media/four-questions-with-munjal-shah-hippocratic-ai/</link>
       <guid isPermaLink="true">https://www.secondopinion.media/four-questions-with-munjal-shah-hippocratic-ai/</guid>
@@ -508,4 +516,3 @@
     </item>
   </channel>
 </rss>
-
