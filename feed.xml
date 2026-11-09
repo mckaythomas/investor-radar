@@ -4,8 +4,20 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 15:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:00:00 GMT</lastBuildDate>
     <item>
+<title>[Manuel Pinilla / THCB] Stop testing AI against doctors - test doctors with AI (author builds a diagnostic-assist tool)</title>
+<link>https://thehealthcareblog.com/blog/2026/11/09/stop-testing-ai-against-doctors-test-doctors-with-ai/</link>
+<pubDate>Mon, 09 Nov 2026 06:00:00 GMT</pubDate>
+<description>Manuel Pinilla (cofounder of Medsys AI, Madrid) argues the AI-vs-doctor benchmark genre - latest entry: Microsoft's MAI-DxO scoring 83% vs physicians' 36% on 304 NEJM cases in Science - answers the wrong question for settings where a doctor stays in the room and signs the diagnosis. The right test: does the doctor WITH the AI diagnose better, and what happens when the AI is wrong? His own preclinical study (JMIR Formative Research): 13 family physicians, 260 simulated voice consultations, top-3 diagnosis 62.3% unassisted vs 74.6% assisted (+12.3 points; 32.6% fewer misses, 44.8% fewer in the hardest cases), usefulness 4.38/5. Two honest open problems: assisted consults ran 35 seconds longer (10.7%), and when the AI's suggestion was wrong, assisted physicians submitted that wrong diagnosis 55.8% of the time vs 38.8% for unassisted - not statistically significant, but he flags it as the overreliance number to watch. He also cites the Google AMIE / Beth Israel Lancet study (patients chat with AI pre-visit, physician supervising live) as the other valid design. A real-patient emergency-department trial is underway in Madrid; CE-mark path realistically 2027. Source flags: the author builds in this space - the study is his company's, simulated patients, small sample, and the control arm had no external resources, so read effect sizes accordingly. Relevance for Felt: this is the evaluation frame a clinical care agent will actually be judged on - assisted-vs-unassisted accuracy, overreliance when the AI is wrong, and time cost per consult - plus the design split between AI-before-visit and AI-during-visit. Read in full.</description>
+</item>
+<item>
+<title>[Rebecca Mitchell / Scrub Capital] Don't dance on Heidi Health's stumble - a CEO who reshapes the team is doing the job</title>
+<link>https://www.linkedin.com/posts/rebeccalynnmitchell_yet-another-round-of-dancing-on-a-previously-share-7525232571170095105-YMOm/</link>
+<pubDate>Sat, 08 Nov 2026 16:00:00 GMT</pubDate>
+<description>Rebecca Mitchell (Founder &amp; Managing Partner, Scrub Capital - pre-seed to Series A health care VC, checks to $400k; a McKay 1st-degree connection, newly added to the CRM) pushes back on the pile-on over Heidi Health's troubles: she has no insider information (one shared podcast with the CEO), but argues a CEO willing to materially reshape the team, pivot, or take a hard decision - with the board's agreement - is showing good leadership, and with the market, the economy and AI all moving this fast, expect more of it; ask questions before condemning. Conversation context: Heidi Health's stumble is the week's health tech pile-on; the sharpest counter-version circulating is physician-executive Benjamin Schwartz's take that AI practice management is commoditizing into a growth-and-distribution game, with ASCs and small independent groups as the greenfield. Source flags: opinion post, no insider claims. Post date approximate (LinkedIn showed "22h" on Nov 9). Read in full via LinkedIn.</description>
+</item>
+<item>
 <title>[Farr &amp; Reader / Second Opinion] CMS wants to pay for AI-enabled primary care</title>
 <link>https://www.secondopinion.media/round-up-2026-11-07/</link>
 <pubDate>Sat, 07 Nov 2026 15:30:00 GMT</pubDate>
