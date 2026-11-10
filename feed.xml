@@ -4,8 +4,20 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Mon, 09 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:05:00 GMT</lastBuildDate>
     <item>
+<title>[Joanna Strober / Midi Health] Midi ships Prism, an AI clinical knowledge platform, inside its clinician interface</title>
+<link>https://www.linkedin.com/posts/joannastrober_women-in-their-30s-through-60s-have-been-share-7525752738266316800-Ap2W/</link>
+<pubDate>Tue, 10 Nov 2026 14:30:00 GMT</pubDate>
+<description>Joanna Strober (founder of Midi Health, the midlife women's health clinic; McKay follows her) announces Prism, Midi's AI-powered clinical knowledge platform: a clinician asks a question in plain language and gets an answer drawn from Midi's own clinical protocols and peer-reviewed research, with the source shown for verification. Prism now lives inside MidiPal, Midi's AI-powered clinical interface, so clinicians don't switch tools. Her framing: women 30s-60s have been overlooked in medical research for decades and general-purpose medical tools inherit that gap; and with the physician shortage, "enabling NPs and other expert providers with the right AI" is the feasible scaling path, not just training more physicians. She credits CPO Jason Strober, head of AI engineering Anand Madhavan, and clinical product leads Cole Dudley and Hailey Mody; Midi is hiring across technical teams. Source flags: company launch post - no usage data, no accuracy claims beyond "source shown." Relevance for Felt: a venture-backed virtual clinic productizing its own protocols as an AI knowledge layer for its clinicians is the in-house version of the care-stack play; the NP-enablement argument is the same labor math Felt makes for app partners. Read in full via LinkedIn.</description>
+</item>
+<item>
+<title>[Matt Pavelle / Doctronic] Of 27k antibiotic requests, the top reason is teeth - dental access shows up in AI consult data</title>
+<link>https://www.linkedin.com/posts/mattpavelle_heres-something-neat-the-doctronic-research-share-7525916203819732992-Qwh7/</link>
+<pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+<description>Matt Pavelle (cofounder of Doctronic; a McKay 1st-degree connection) shares a second data cut from the Doctronic research team (Blythe Adamson), this one covering more than 27,000 consultations where patients asked for antibiotics. When antibiotics were prescribed, the top reason was dental problems at 15%, ahead of UTIs at 11% - his read: that says something about how hard it is to see a dentist in America. Dental issues also topped the list when doctors declined to prescribe - infections that needed a dental procedure, not a pill - followed by STIs that require a test first, then common colds, where antibiotics don't help. Source flags: company-reported shares of an internal consult base, no denominators beyond the 27k, no methodology detail - directional, like the timing data. Relevance for Felt: a second window into what an AI-first front door actually sees - unmet dental demand surfacing as antibiotic requests is the kind of case-mix insight any always-on care service will inherit. Post time approximate (LinkedIn showed "1h" on Nov 10). Read in full via LinkedIn.</description>
+</item>
+<item>
 <title>[Manuel Pinilla / THCB] Stop testing AI against doctors - test doctors with AI (author builds a diagnostic-assist tool)</title>
 <link>https://thehealthcareblog.com/blog/2026/11/09/stop-testing-ai-against-doctors-test-doctors-with-ai/</link>
 <pubDate>Mon, 09 Nov 2026 06:00:00 GMT</pubDate>
