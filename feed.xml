@@ -4,8 +4,26 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 15:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:05:00 GMT</lastBuildDate>
     <item>
+<title>[Jon Lensing / OpenLoop] On the a16z longevity report: health data is a commodity, actionability is what people pay for</title>
+<link>https://www.linkedin.com/posts/jon-lensing_more-than-half-the-people-that-andreessen-share-7526643636747292673-N514/</link>
+<pubDate>Thu, 12 Nov 2026 14:00:00 GMT</pubDate>
+<description>Jon Lensing (cofounder and CEO of OpenLoop, a white-label telehealth infrastructure company and a Felt competitor; McKay follows him) picks up the a16z State of Longevity report from yesterday's feed: 55% of wearable users say the data never changed a behavior or prompted a doctor's visit, and his read is that health data is becoming a commodity while what people will pay for is making it actionable - "whole health diagnostic testing is how a brand gets there." Then the pitch: OpenLoop's Whole Health Diagnostics program gives a brand's customer a full baseline lab panel and a clinician who has already reviewed the results before the visit, under the brand's own name, with the three-month retest turning a one-time purchase into an ongoing relationship. Source flags: founder selling his own program - the trend claims come from the a16z report, the "lab-first companies are ahead" framing supports his product. Relevance for Felt: a direct competitor is publicly selling the exact "brands own the care layer" thesis Felt sells, anchored on the same report. Post time approximate (LinkedIn showed "1h" on Nov 12). Read in full via LinkedIn.</description>
+</item>
+<item>
+<title>[Austin Walters / SpringTide Ventures] Oura-Counsel: stepping around the episodic-vs-longitudinal data debate</title>
+<link>https://www.linkedin.com/posts/acwalters_case-study-cold-call-you-are-a-wearable-share-7526355507188563968-ius_/</link>
+<pubDate>Wed, 11 Nov 2026 19:00:00 GMT</pubDate>
+<description>Austin Walters (Healthcare VC at SpringTide Ventures; 2nd-degree, followed by Cash Allred; newly added to the CRM) frames the Oura-Counsel deal as a case study: a wearable company with 6M paid users, about $2B raised, and zero FDA medical device clearances spending $625M cash on virtual physician access. His core argument: the preventive-care thesis always depended on whether a physician would take wellness-device data seriously in the exam room - and by buying Counsel, Oura stepped around that debate entirely, putting doctors and data under one roof so clinicians who see these signals daily can order tests and consult on what the ring flags. He is watching for new FDA clearances that would move Oura closer to a medical designation. Comment thread adds: Conner McCraw (cofounder of 9+1AI, ex-WHOOP) notes a provider network would let Oura prescribe software-as-a-medical-device features and pursue higher-acuity profiles than the OTC status quo. Also noted: Oura postponed its IPO in September, which makes the direction of this deal clearer. Source flags: sharp analysis, but a VC's public read - the $2B raised figure is his estimate. Post time approximate (LinkedIn showed "20h" on Nov 12). Read in full via LinkedIn.</description>
+</item>
+<item>
+<title>[Farr / Second Opinion] AMA with Doximity CEO Jeff Tangney - Nov 24, premium subscribers</title>
+<link>https://www.secondopinion.media/ama-with-doximity-ceo-jeff-tangney/</link>
+<pubDate>Wed, 11 Nov 2026 16:09:59 GMT</pubDate>
+<description>Event listing, not an article: Christina Farr and Rebecca Mitchell of Scrub Capital (a tracked investor in this CRM) co-host a live AMA with Doximity CEO Jeff Tangney on November 24, 12:00-1:00pm ET (9:00-10:00am PT), virtual. Topics: where clinicians are finding value with AI, how Doximity has evolved, and building a company from zero to IPO. Access is limited to Second Opinion premium subscribers and Scrub Capital community members. Source flags: promotional event listing - included because Doximity is the incumbent physician network every clinical-AI distribution story bumps into, and a straight Q&amp;A with its CEO on clinician AI value is rare. No transcript will exist unless McKay attends or a recap publishes.</description>
+</item>
+<item>
 <title>[Morgan Cheatham / Breyer Capital] Physician founders are on a tear: PathAI, Humata and Counsel exits</title>
 <link>https://www.linkedin.com/posts/morgancheatham_physician-founders-are-on-a-tear-this-year-share-7526293094296801281-SpjK/</link>
 <pubDate>Wed, 11 Nov 2026 14:42:00 GMT</pubDate>
