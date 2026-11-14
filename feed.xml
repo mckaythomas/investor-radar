@@ -4,8 +4,20 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:00:00 GMT</lastBuildDate>
     <item>
+<title>[Reader / Second Opinion] HHS white paper on "Super Intelligence" doctors and state AI sandboxes</title>
+<link>https://www.secondopinion.media/hhs-to-wrangle-the-state-ai-sandboxes/</link>
+<pubDate>Fri, 13 Nov 2026 18:00:00 GMT</pubDate>
+<description>Ruth Reader reports HHS has published a white paper laying out its perspective on AI doctors ("Super Intelligence" doctors, in the paper's framing). Key facts from the public portions: the document covers the department's thinking on state AI regulatory sandboxes and on incentives for states and their pilot participants to coordinate with federal health agencies; it is explicitly not regulation, but may clarify the legal landscape as AI-doctor companies multiply. Reader spoke to three people with knowledge of the department's plans ahead of release. Her framing of why it matters: with no federal health-AI rules, states have moved first with their own laws and sandboxes that let companies test AI-enabled care under state supervision, and investors are struggling to underwrite these businesses without clear guidelines. The white paper itself is now public (linked in the piece). Source flags: the full Second Opinion analysis is paywalled - only the intro was readable; per our standing rule, treat the white paper as a perspective document, not adopted policy or rulemaking. Relevance for Felt: the regulatory ground under AI-enabled care delivery is exactly what Felt's partners ask about; the paper itself is worth a direct read.</description>
+</item>
+<item>
+<title>[Ann Crady Weiss / Hatch + True Ventures] The a16z longevity stat, from the sleep side: data that leads somewhere</title>
+<link>https://www.linkedin.com/posts/ann-crady-weiss_55-of-wearable-users-say-their-health-data-share-7526685642777448451-nn97/</link>
+<pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+<description>Ann Crady Weiss (CEO and cofounder of Hatch; Venture Partner at True Ventures; 2nd-degree, followed by Danny Groner; newly added to the CRM) picks up the same a16z State of Longevity stat driving this week's conversation - 55% of wearable users say their health data never changed a behavior or prompted a doctor's visit - and argues a16z's "action layer" examples skew clinical (order the labs, book the appointment) while much of health is won at home in daily habits nobody tracks, sleep being the clearest case. Then the Hatch pitch: the Hatch Sleep Clock learns your patterns without a wearable and uses the data to show what's working and build a routine. Her closer is the quotable line: "Handing someone their sleep stats is easy. Helping them sleep better is the hard part - and the part worth building." Source flags: founder selling her own product off the report. Conversation context: this is the third operator in two days building on the same a16z stat (Lensing/OpenLoop yesterday, Weiss/Hatch today) - the report has become the week's reference point in consumer health. Post date approximate (LinkedIn showed "1d" on Nov 14). Read in full via LinkedIn.</description>
+</item>
+<item>
 <title>[Derek Flanzraich / 5HT] The Health Consumer's Bill of Rights - the patient is the integrator</title>
 <link>https://www.linkedin.com/posts/derekflanzraich_weve-lowered-our-standards-for-healthcare-share-7527011169669324800-i1u7/</link>
 <pubDate>Fri, 13 Nov 2026 14:15:00 GMT</pubDate>
