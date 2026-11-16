@@ -4,8 +4,20 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 15:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:00:00 GMT</lastBuildDate>
     <item>
+<title>[Shiv Rao / Abridge] The Abridge Assistant as an always-on "fellow" that reviews the chart and coordinates care</title>
+<link>https://www.linkedin.com/feed/update/urn:li:activity:7528099565850374144/</link>
+<pubDate>Mon, 16 Nov 2026 14:15:00 GMT</pubDate>
+<description>Shiv Rao (Abridge; 2nd-degree, reposted by Abridge) describes the problem as on-call "chart biopsy" and asks what it would look like if a fellow were available around the clock to review the chart, present the patient and help coordinate care. At The Conversation last month he and Janie Lee demoed the Abridge Assistant turning his goals into a plan, working across systems and coming back when it needs his judgment. His framing: the purpose is presence, full attention on the patient with confidence the plan gets carried through; "we've talked about the Learning Health System for twenty years, we're building it now with our partners." Full demo linked in the post (not watched in this pass). Source flags: vendor demo and marketing, no outcome data. Relevance: Abridge moving from ambient documentation to an agent that acts across systems, the same agentic shift Kimberly Powell described in Second Opinion's interview this weekend. Post time approximate (LinkedIn showed "42m" on Nov 16; link is the LinkedIn activity URL). Read in full via LinkedIn.</description>
+</item>
+<item>
+<title>[Matt Pavelle / Doctronic] What patients ask when they upload test results: 15,000 consultations</title>
+<link>https://www.linkedin.com/posts/mattpavelle_most-patients-now-see-their-test-results-share-7527830258121752576-ksUo/</link>
+<pubDate>Sun, 15 Nov 2026 13:00:00 GMT</pubDate>
+<description>Matt Pavelle (cofounder of Doctronic; a McKay 1st-degree connection) cites ONC research that 96% of patients prefer seeing test results in a portal before talking to a clinician, but only 66% of those who read early said they understood what the results meant. Doctronic Research Lab (led by Blythe Adamson, PhD, MPH) studied more than 15,000 consultations where people brought results for help: blood work came up in 37%, imaging reports (x-ray, CT, MRI, ultrasound) in 26%. Questions were simple: what does this value mean, is this dangerous, does this word mean cancer. His close: access is right, now build the understanding, and check how any AI tool handles training on your data and whether opting out is a setting you must hunt for. Source flags: company-run analysis of its own users' conversations - no methods or denominators shown in the post; ONC figures are as he cites them, not checked here. Relevance: a concrete demand signal for results interpretation, the use case consumer AI-plus-clinician products lead with. Post time approximate (LinkedIn showed "18h" on Nov 16). Read in full via LinkedIn.</description>
+</item>
+<item>
 <title>[Farr &amp; Reader / Second Opinion] Nvidia's impact on health care - what Huang's exit means for health tech</title>
 <link>https://www.secondopinion.media/round-up-2026-11-14/</link>
 <pubDate>Sat, 14 Nov 2026 18:45:00 GMT</pubDate>
