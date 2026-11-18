@@ -4,8 +4,20 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 15:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:00:00 GMT</lastBuildDate>
     <item>
+<title>[Derek Flanzraich / 5HT] The patient is the unpaid software layer: a founder and investor roadmap from the Bill of Rights</title>
+<link>https://www.linkedin.com/posts/derekflanzraich_healthcare-has-a-dirty-secret-tbh-the-share-7528826130527801344-Y_6Y/</link>
+<pubDate>Wed, 18 Nov 2026 14:00:00 GMT</pubDate>
+<description>Derek Flanzraich (1st-degree, 5HT writer, Greatist founder, CGO at Radial) follows his Health Consumer's Bill of Rights (Nov 13 item in this feed) with a builder's reading: "the patient is the integrator." Examples he ties to amendments: you log into four portals and hope the specialist reads your PDFs; an EOB that says "this is not a bill" plus three invoices to reconcile; calling five clinics from an insurance directory to find none are taking new patients. Opportunities he names: scheduling ("the Resy of healthcare"), noting ZocDoc is already surfacing its data to LLMs and that patient AI agents may soon book directly with clinic AI agents; and incentives for long-term outcomes, arguing employer-based insurance is the original sin (median job tenure 4.1 years, so insurers have little reason to prevent year-7 heart disease), with 10-year catastrophic plans and life-insurance-style incentives such as John Hancock Vitality as possible fixes. His close: the next decade's biggest health companies will take integration work off the patient's plate, and he asks which amendment is a company waiting to be built. Source flags: opinion; the 4.1-year tenure figure and the ZocDoc/LLM and Vitality points are his statements, not checked here. Relevance: a consumer-health investor-operator publicly describing the integration-layer thesis Felt sells into. Post time approximate (LinkedIn showed "30m" on Nov 18). Read in full via LinkedIn.</description>
+</item>
+<item>
+<title>[Morgan Cheatham / Breyer Capital] What AI does to "local medical information networks": the tacit knowledge question</title>
+<link>https://www.linkedin.com/posts/morgancheatham_im-interested-in-what-ai-does-to-local-share-7528113101267816450-PMI-/</link>
+<pubDate>Tue, 17 Nov 2026 15:30:00 GMT</pubDate>
+<description>Morgan Cheatham (Partner and Head of Healthcare and Life Sciences at Breyer Capital; a McKay 1st-degree connection, already in the CRM) argues medicine is both an oral tradition and a science: good clinicians are built from curbsides, asides on rounds and the attending who has seen a presentation twice before. AI can already reach the literature and "patients like mine" in the EHR; the harder part is tacit knowledge in people - judgment, local practice, the case someone saw once and never wrote up - and patients who are not in textbooks. His open questions: if a model answers first, do physicians call each other less; does AI slow knowledge transfer through local networks or strengthen them; can it route you to the right colleague; can it capture what is said on rounds without changing what people are willing to say; how do you encode knowledge never written down. He calls these the next questions worth answering now that medical information is nearly free and instant. Source flags: an opinion post posing questions, no data or claims to verify. Relevance: the same "moat is hard-won human experience" theme as his Nov 11 post; a thesis signal about where he may look for AI-in-care companies. Post time approximate (LinkedIn showed "1d" on Nov 18). Read in full via LinkedIn.</description>
+</item>
+<item>
 <title>[Demis Hassabis / Isomorphic Labs] 5 billion dollar Series C for AI drug design</title>
 <link>https://www.linkedin.com/posts/demishassabis_im-thrilled-to-announce-5b-in-funding-for-ugcPost-7528429924806840320-joOA/</link>
 <pubDate>Tue, 17 Nov 2026 12:45:00 GMT</pubDate>
