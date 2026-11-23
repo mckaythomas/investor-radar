@@ -4,8 +4,14 @@
     <title>Investor Radar — Conversation Briefing</title>
     <link>https://github.com/mckaythomas/investor-radar</link>
     <description>A two-minute scan of the people, claims and events moving health tech, AI and venture conversations. Each item explains the read, who is talking, what sparked it and why it matters now.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:00:00 GMT</lastBuildDate>
     <item>
+<title>[Farr &amp; Reader / Second Opinion] HHS's big picture for health AI: the HIPAA access rule is final, but not yet binding</title>
+<link>https://www.secondopinion.media/round-up-2026-11-21/</link>
+<pubDate>Sat, 21 Nov 2026 19:30:00 GMT</pubDate>
+<description>Second Opinion's Saturday round-up (Ruth Reader's lead, written from HLTH) argues HHS is assembling an AI-in-care framework and that 2027 regulation is the open question. She cites, from the newsletter and her earlier piece: CMS's roadmap for health care "Super Intelligence" (a roadmap, not a rule), CMS's experimental ACCESS payment program, and FDA's TEMPO program for oversight, with a patient-data foundation next. The piece says OCR "dropped the final HIPAA privacy rule" this week, making it easier for patients to use health apps to gather their records and limiting when providers and insurers can push back. Primary-source check on that item: HHS announced the final rule on Nov 16, 2026 (HHS press release). It was published in the Federal Register on Nov 19 (91 FR 74848, document 2026-23429, 45 CFR 160 and 164). Effective date is Jan 19, 2027, and the compliance date is Jul 19, 2027, so nothing binds covered entities yet. Per the rule's summary text, it adds definitions of "electronic health record" and "personal health application," cuts the access-request response time to 15 calendar days (from 30) with a possible 30-day extension, clarifies form and format, and eases identity verification. Also in the issue, known only from the RSS description (paywalled beyond the lead; not verified): Anthropic's "record IPO," Epic opening to AI developers, Hims and Noom entering the peptide market, and a Q&amp;A with Tom Health's John Fryer. Source flags: lead is opinion/analysis; the CMS roadmap, ACCESS and TEMPO details are the author's summary and were not rechecked today; the HIPAA dates and provisions are from the Federal Register text. Relevance: the app-access rule is the data-rights tailwind for patient-facing health apps and SDKs like Felt, but obligations start in mid-2027. Sources: https://www.federalregister.gov/documents/full_text/html/2026/11/19/2026-23429.html and https://www.hhs.gov/press-room/hhs-issues-new-final-rule-modernize-hipaa-privacy-rule-support-coordinated-care-individual-engagement-reduce-regulatory-burdens.html</description>
+</item>
+<item>
 <title>[Derek Flanzraich / 5HT] The patient is the unpaid software layer: a founder and investor roadmap from the Bill of Rights</title>
 <link>https://www.linkedin.com/posts/derekflanzraich_healthcare-has-a-dirty-secret-tbh-the-share-7528826130527801344-Y_6Y/</link>
 <pubDate>Wed, 18 Nov 2026 14:00:00 GMT</pubDate>
